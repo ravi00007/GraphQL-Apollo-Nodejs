@@ -1,2 +1,1 @@
-# GraphQL-Apollo-Nodejs
-#MongoDB
+# GraphQL-Apollo-Nodejs-MongoDB
